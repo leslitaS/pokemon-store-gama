@@ -1,0 +1,138 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 16px;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.nav-poke{
+  background-color: #1fc8db;
+  background-image: linear-gradient(141deg, #9fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+  color: white;
+  opacity: 0.95;
+  padding: 0px;
+    
+}
+.search-poke{
+  display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+.a:hover {
+
+  text-decoration: none;
+}
+.link-search{
+  text-decoration: none;
+  display: block;
+  margin: 4rem auto;
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+  border-radius: .25rem;
+  padding: .475rem .75rem;
+}
+.row {
+  margin-right: -175px;
+  margin-left: -195px;
+}
+.container-pokemon{
+  flex: 1;
+  padding: 10px;
+  display: flex;
+  flex-flow: column;
+  width: 100px;
+  background-color: rgb(250, 253, 255);
+}
+.card{
+  background-color: rgba(208, 211, 38, 0.438);
+  background-image: linear-gradient(141deg, #b8c963 0%, #7cc06f 51%, #4ab2d8 75%);
+  color: white;
+  opacity: 0.95;
+  /* background: rgba(208, 211, 38, 0.438); */
+}
+   
+.pokemon-list{
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  grid-gap: 15px;
+}
+
+.pokemon .pokemon-list{
+  position: relative;
+  display: flex;
+  flex-flow: column;
+  min-height: 150px;
+  padding: 15px;
+  background-color: rgb(69, 15, 218);
+}
+.Img-pokemon {
+  width: 180px;
+  height: 180px;
+}
+
+.main {
+	  
+  display: block;
+	width: 100%;
+	height: 100%;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.prev-btn, .next-btn {
+  background-color: #1fc8db;
+  background-image: linear-gradient(141deg, #9fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+  color: white;
+  opacity: 0.95;
+}
+
+
+.pokeShop .pokemon-list-shop{
+  position: relative;
+  display: flex;
+  flex-flow: column;  
+  padding: 15px;
+
+}
+.card-deck .card {
+  flex: 1 0;
+  margin-right: 15px;
+  margin-bottom: 13px;
+  margin-left: 15px;
+}
+.pokeShop{
+  display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.Img-pokemon-shop{
+  width: 90px;
+  height: 90px;
+}
+.remove{
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: tomato;
+}
+.finalizar{
+  background-color: #1fc8db;
+  background-image: linear-gradient(141deg, #9fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+  color: white;
+  opacity: 0.95;
+}
