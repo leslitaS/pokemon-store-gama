@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pokemon-store-gama/static/css/main.5b44bee2.chunk.css",
+    "main.js": "/pokemon-store-gama/static/js/main.63872026.chunk.js",
+    "main.js.map": "/pokemon-store-gama/static/js/main.63872026.chunk.js.map",
+    "runtime-main.js": "/pokemon-store-gama/static/js/runtime-main.0607a1f4.js",
+    "runtime-main.js.map": "/pokemon-store-gama/static/js/runtime-main.0607a1f4.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/pokemon-store-gama/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.3cd8fc5f.chunk.js": "/pokemon-store-gama/static/js/2.3cd8fc5f.chunk.js",
+    "static/js/2.3cd8fc5f.chunk.js.map": "/pokemon-store-gama/static/js/2.3cd8fc5f.chunk.js.map",
+    "index.html": "/pokemon-store-gama/index.html",
+    "precache-manifest.89cadebf0d70a7fb441eb9b9b0f38c2c.js": "/pokemon-store-gama/precache-manifest.89cadebf0d70a7fb441eb9b9b0f38c2c.js",
+    "service-worker.js": "/pokemon-store-gama/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/pokemon-store-gama/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5b44bee2.chunk.css.map": "/pokemon-store-gama/static/css/main.5b44bee2.chunk.css.map",
+    "static/js/2.3cd8fc5f.chunk.js.LICENSE.txt": "/pokemon-store-gama/static/js/2.3cd8fc5f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0607a1f4.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.3cd8fc5f.chunk.js",
+    "static/css/main.5b44bee2.chunk.css",
+    "static/js/main.63872026.chunk.js"
+  ]
+}
