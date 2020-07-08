@@ -14,7 +14,8 @@
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
-    "styled-components": "^5.1.1"
+    "styled-components": "^5.1.1",
+    "websocket-extensions": "^0.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -24,7 +25,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
- 
   "eslintConfig": {
     "extends": "react-app"
   },
